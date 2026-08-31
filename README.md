@@ -4,7 +4,7 @@ This project builds an AI-powered Customer Support Copilot that reduces tool-swi
 <h1 align="center">🚀 Generative AI System</h1>
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_m9j45wm9j45wm9j4.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_m9j45wm9j45wm9j4.jpg"
        alt="Generative AI Project Banner"
        width="1000"/>
 </p>
@@ -14,7 +14,7 @@ This project builds an AI-powered Customer Support Copilot that reduces tool-swi
 <h2 align="center">🏗️ System Architecture</h2>
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/architecturediagram.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/architecturediagram.png"
        alt="System Architecture Diagram"
        width="900"/>
 </p>
